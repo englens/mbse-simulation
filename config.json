@@ -1,0 +1,6 @@
+{
+    "model_file": "Simulation_Test.xml",
+    "number_of_runs": 5,
+    "time_between_runs": 20,
+    "main_activity_name": "TestPerformanceActivity"
+}
